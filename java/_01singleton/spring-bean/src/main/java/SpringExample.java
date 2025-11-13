@@ -1,4 +1,3 @@
-package com.ps.designpattern.java._01singleton.src.main.java;
 
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;

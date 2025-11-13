@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
+http://www.springframework.org/schema/beans " xmlns:xsi="http://www.springframework.org/schema/c">
+
+    <bean id="sun" class="Sun">
+        <constructor-arg index="0" type="String" value="Milky Way"/>
+        <constructor-arg index="1" type="double" value="3.828E26"/>
+        <constructor-arg index="2" type="int" value="46"/>
+    </bean>
+
+</beans>

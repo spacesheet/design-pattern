@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-bean" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="_01.singleton.main" target="11" />
+      <module name="_01.singleton.test" target="11" />
+      <module name="_01singleton.springbean.main" target="21" />
+      <module name="_01singleton.springbean.test" target="21" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,2 +1,4 @@
-rootProject.name = '_01.singleton'
+rootProject.name = '_01singleton'
 
+
+include 'springbean'
