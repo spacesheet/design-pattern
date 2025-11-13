@@ -7,7 +7,7 @@ public final class SolarSystem02 {
 
     public static Sun getSun() {
         if (sun == null) {
-            sun = Sun.createSun(3.828E26, 46);
+			sun = Sun.createSun(3.828E26, 46);
         }
         return sun;
     }
