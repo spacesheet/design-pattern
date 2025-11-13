@@ -7,7 +7,6 @@ public final class SolarSystem01 {
     // 생성자를 막아서 인스턴스 생성 방지
     private SolarSystem01() {}
 
-    // public으로 변경해야 접근 가능
     public static Sun getSun() {
         return sun;
     }
